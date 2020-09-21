@@ -4,6 +4,8 @@ fun main() {
 
     try {
         val list = listOf("Pato", "Cachorro", "Gato")
+        //parabens
+
         println(list.get(3))
 
     } catch (ex: Exception){
